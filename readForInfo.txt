@@ -1,0 +1,5 @@
+cd backend followed by nodemon server in terminal when folder is opened in vscode to start up server
+backend is done! react simple CRUD. Insomnia used to test crud calls
+https://cloud.mongodb.com for mongoDB.
+
+moving onto react frontend : 43:30 is timestamp for https://www.youtube.com/watch?v=7CqJlxBYj-M
